@@ -4,7 +4,7 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"a
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
 
 <channel>
@@ -32,52 +32,19 @@
 	<item>
 		<title>PENSIILE reprezintă aproape 13% din PIB-ul Uniunii Europene. Cât este procentul în România</title>
 		<link>https://www.gandul.ro/actualitate/pensiile-reprezinta-aproape-13-din-pib-ul-uniunii-europene-cat-este-procentul-in-romania-20230791</link>
-		<dc:creator><![CDATA[gandul.ro]]></dc:creator>
-		<pubDate>Tue, 11 Jun 2024 20:56:13 +0000</pubDate>
-				<category><![CDATA[Actualitate]]></category>
-		<category><![CDATA[ALEGERI 2024]]></category>
-		<category><![CDATA[Știri]]></category>
-		<category><![CDATA[Știri politice]]></category>
-		<category><![CDATA[monitorizare]]></category>
-		<category><![CDATA[olguta vasilescu]]></category>
-		<category><![CDATA[primar craiova]]></category>
-		<guid isPermaLink="false">https://www.gandul.ro/?p=1</guid>
-		<description><![CDATA[Olguța Vasilescu, membră PSD, a câștigat detașat alegerile pentru funcția de primar al Craiovei, fiind votată de peste 55% din electorat, în timp ce contracandidatul de pe locul doi a convins doar 15% dintre cetățeni. [&#8230;]]]></description>
-		<enclosure url="https://www.gandul.ro/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-08-at-09.11.47-1280x731.jpeg" length="500" type="image/jpeg"/>	
-	</item>
-	<item>
-		<title>PENSIILE reprezintă aproape 13% din PIB-ul Uniunii Europene. Cât este procentul în România</title>
-		<link>https://www.gandul.ro/actualitate/pensiile-reprezinta-aproape-13-din-pib-ul-uniunii-europene-cat-este-procentul-in-romania-20230791</link>
-		<dc:creator><![CDATA[gandul.ro]]></dc:creator>
-		<pubDate>Tue, 11 Jun 2024 20:56:13 +0000</pubDate>
-				<category><![CDATA[Actualitate]]></category>
-		<category><![CDATA[ALEGERI 2024]]></category>
-		<category><![CDATA[Știri]]></category>
-		<category><![CDATA[Știri politice]]></category>
-		<category><![CDATA[monitorizare]]></category>
-		<category><![CDATA[olguta vasilescu]]></category>
-		<category><![CDATA[primar craiova]]></category>
-		<guid isPermaLink="false">https://www.gandul.ro/?p=2</guid>
-		<description><![CDATA[Olguța Vasilescu, membră PSD, a câștigat detașat alegerile pentru funcția de primar al Craiovei, fiind votată de peste 55% din electorat, în timp ce contracandidatul de pe locul doi a convins doar 15% dintre cetățeni. [&#8230;]]]></description>
-		<enclosure url="https://www.gandul.ro/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-08-at-09.11.47-1280x731.jpeg" length="500" type="image/jpeg"/>	
-	</item>
-<item>
-		<title>PENSIILE reprezintă aproape 13% din PIB-ul Uniunii Europene. Cât este procentul în România</title>
-		<link>https://www.gandul.ro/actualitate/pensiile-reprezinta-aproape-13-din-pib-ul-uniunii-europene-cat-este-procentul-in-romania-20230791</link>
-		<dc:creator><![CDATA[gandul.ro]]></dc:creator>
-		<pubDate>Tue, 11 Jun 2024 20:56:13 +0000</pubDate>
-				<category><![CDATA[Actualitate]]></category>
-		<category><![CDATA[ALEGERI 2024]]></category>
-		<category><![CDATA[Știri]]></category>
-		<category><![CDATA[Știri politice]]></category>
-		<category><![CDATA[monitorizare]]></category>
-		<category><![CDATA[olguta vasilescu]]></category>
-		<category><![CDATA[primar craiova]]></category>
-		<guid isPermaLink="false">https://www.gandul.ro/?p=2</guid>
-		<description><![CDATA[Olguța Vasilescu, membră PSD, a câștigat detașat alegerile pentru funcția de primar al Craiovei, fiind votată de peste 55% din electorat, în timp ce contracandidatul de pe locul doi a convins doar 15% dintre cetățeni. [&#8230;]]]></description>
-		<enclosure url="https://www.gandul.ro/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-08-at-09.11.47-1280x731.jpeg" length="500" type="image/jpeg"/>	
-	</item>
-
 		
-</channel>
+		<dc:creator><![CDATA[gandul.ro]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2024 21:11:50 +0000</pubDate>
+				<category><![CDATA[Actualitate]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[pensii]]></category>
+		<category><![CDATA[pib]]></category>
+		<category><![CDATA[uniunea europeana]]></category>
+		<guid isPermaLink="false">https://www.gandul.ro/?p=20230791</guid>
+		<description><![CDATA[Pensiile reprezintă aproape 13% din PIB-ul Uniunii Europene (UE), în timp ce în România procentul este de 8,8%. Deși suntem sub media europeană, nu facem notă discordantă față de majoritatea țărilor din regiune, după cum [&#8230;]]]></description>
+		<enclosure url="https://www.gandul.ro/wp-content/uploads/2024/06/WhatsApp-Image-2024-06-08-at-09.11.47-1280x731.jpeg" length="500" type="image/jpeg"/>	
+	</item>
+	
+	</channel>
 </rss>
